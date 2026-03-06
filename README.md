@@ -1,56 +1,46 @@
 <h1 align="center">Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, It's me TUFAIL</h1>
-
+<hr style=" border-top: 3px solid #bbb">
+<h2 align="center"> I'm a Frontend Developer with over 3 years of experience building admin dashboards, large data interfaces, and scalable web applications using React.js and Next.js. I enjoy turning complex requirements into clean, responsive, and performant UIs. </h2>
 <hr style=" border-top: 3px solid #bbb">
 
-<h2 align="center"> I'm a highly motivated and energetic web developer with over 4 years of experience, passionate about tackling challenging tasks and finding creative solutions. I'm adept at applying diverse technical skills to real-world development projects, ensuring efficient and effective outcomes. </h2>
+- :telescope: I'm currently working as a **Frontend Developer at Kryptohive**, building fintech and crypto dashboards.
+- :seedling: I'm currently exploring **AI integration in web apps and advanced dashboard architectures**
+- :dancers: I'm looking to collaborate on **React/Next.js projects, admin panels, and dashboard systems**
+- :speech_balloon: Ask me about **Next.js, React.js, Admin Dashboards, Large Data Interfaces**
+- :mailbox: Reach me at **alitufail9569@gmail.com** & [![Whatsapp Badge](https://img.shields.io/badge/-923175768858-lightgreen?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/923175768858)
 
-
-<hr style=" border-top: 3px solid #bbb">
-
-- :telescope: I’m currently working on  **Full Stack Web Developer**.
-- :seedling: I’m currently learning **Full stack web development and AI with in Web**
-- :dancers: I’m looking to collaborate on **Java, Web Applications**
-- :speech_balloon: Ask me about **Full Stack Web Development**.
-- :mailbox: Reach me at **TUFAIL.se@gmail.com** & [![Whatsapp Badge](https://img.shields.io/badge/-923112487204-lightgreen?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/923112487204)
-
-    [<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/TUFAIL786)      [<img src='https://img.icons8.com/nolan/64/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/TUFAIL786)    [<img src='https://img.icons8.com/nolan/64/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/TUFAIL786)     [<img src='https://img.icons8.com/nolan/64/twitter-circled.png' alt='twitter' height='40'>](https://twitter.com/TUFAIL_786/)    [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/TUFAIL786/)
+    [<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/MuhammadTufailAli)      [<img src='https://img.icons8.com/nolan/64/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tufail-ali/)    [<img src='https://img.icons8.com/nolan/64/globe.png' alt='portfolio' height='40'>](https://mta-web-dev.vercel.app/)
 
 ---
 
 ### :hammer_and_wrench: &nbsp;Languages and Tools :
-
 <p align="left">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,expressjs,nestjs,mongodb,mysql,postgresql,redis,kafka,graphql,aws,redux,tailwindcss,materialui,git,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,expressjs,nestjs,mongodb,postgresql,firebase,graphql,tailwindcss,materialui,bootstrap,git,github,postman,vscode,vercel" />
   </a>
 </p>
 
 ---
 
-<br/>
+### :briefcase: &nbsp; Notable Projects :
 
-
-### :fire: &nbsp; My Stats :
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUFAIL786&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUFAIL786&show_icons=true&theme=dark)
+| Project | Tech | Link |
+|---------|------|------|
+| **Hunch Broker** | Next.js, Tailwind, WebSockets, Zustand | [dev-fe.hunch.markets](http://dev-fe.hunch.markets/) |
+| **Translation Management System** | Next.js, MongoDB, OpenAI API | [app.lexicago.com](https://app.lexicago.com/) |
+| **Nayatel Official Website** | Next.js, Tailwind, Shadcn, Framer Motion | [nayatel.com](https://nayatel.com/) |
+| **Shifa Hospital Website** | Next.js, Strapi CMS, Tailwind | [shifa.com.pk](https://www.shifa.com.pk/) |
+| **NayaTV Streaming Platform** | React.js, Custom Media Player | [nayatv.nayatel.com](https://nayatv.nayatel.com/v2) |
+| **Nayatel Career Portal** | React.js | [careers.nayatel.com](https://careers.nayatel.com/) |
+| **My Wallet Info** | Next.js, NestJS, GraphQL, Material UI | [mywalletinfo.com](http://mywalletinfo.com/) |
 
 ---
 
+<br/>
 
-<!-- Edpoint not working for the following : need to find the alternatives
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TUFAIL786&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: &nbsp; My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTufailAli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TUFAIL786)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTufailAli&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUFAIL786)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUFAIL786&show_icons=true&theme=dark)
-
-![GitHub metrics](https://metrics.lecoq.io/TUFAIL786)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TUFAIL786)
-
--->
+---
